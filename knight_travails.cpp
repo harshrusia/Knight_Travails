@@ -29,7 +29,7 @@ void grid(int x,int y){
     for(int j=1;j<=8;j++)
         cout<<"+---";
     cout<<"+\n";
-    cout<<"     A   B   C   D   E   F   G   H";
+    cout<<"     A   B   C   D   E   F   G   H\n";
 }
 
 int dist[9][9];
